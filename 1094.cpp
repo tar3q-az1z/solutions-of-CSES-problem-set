@@ -32,7 +32,6 @@ int main(){
 		}
 	}
 	cout << moves << ln;
-	
 	return 0;
 }
  
