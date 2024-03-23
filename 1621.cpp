@@ -21,7 +21,6 @@ typedef size_t idx;
 #define sp ends
 #define newline cout << ln
  
- 
 int main(){
 	int n;
 	unordered_set<int> s;
