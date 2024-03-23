@@ -77,9 +77,7 @@ int main(){
 		gp[a].pb(b);
 		gp[b].pb(a);
 	}
-	
 	bfs_route(n + 1);
-	
 	return 0;
 }
  
