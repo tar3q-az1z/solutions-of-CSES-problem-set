@@ -11,7 +11,6 @@ lli binpow(lli a, lli b){
     }
     return ans;
 }
- 
 int main(){
     lli a, b, n;
     cin >> n;
