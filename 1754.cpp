@@ -43,8 +43,7 @@ int main(void){
 	}	
 	return 0;
 }
- 
- 
+
 /*
 some familiar issues:
 ----> [look at global variables and their values]
